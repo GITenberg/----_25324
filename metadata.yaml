@@ -1,0 +1,30 @@
+_repo: '----_25324'
+_version: 0.1.0
+alternative_title: Yu Tai Xin Yong
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Xu, Ling
+    alias: 徐陵
+    birthdate: 507
+    deathdate: 583
+    gutenberg_agent_id: '31246'
+    url: http://www.gutenberg.org/2009/agents/31246
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%BE%90%E9%99%B5
+description: ''
+gutenberg_issued: '2008-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25324'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese poetry -- 220-589'
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.'
+title: 玉台新詠
+url: http://www.gutenberg.org/ebooks/25324
