@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31246
     wikipedia: http://zh.wikipedia.org/wiki/%E5%BE%90%E9%99%B5
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25324#----
 gutenberg_issued: '2008-05-04'
 gutenberg_type: Text
 identifiers:
